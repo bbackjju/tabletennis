@@ -11,11 +11,11 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "전국 탁구 모임"
       section: services
-    - title: "Portfolio"
+    - title: "탁구 대회"
       section: portfolio
-    - title: "About"
+    - title: "탁구에 대하여"
       section: about
     - title: "Contact"
       section: contact

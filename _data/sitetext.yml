@@ -12,40 +12,40 @@
 en: &DEFAULT_EN
   header:
     title: Do you like Table Tennis?
-    text: Then you are my family!
+    text: Then come and join us!
     button: Let's play!
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "전국 탁구 모임"
+    text: "언제 어디서든 당신과 맞는 탁구 모임을 찾습니다!"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "20 ~ 30대"
+        desc: "탁구를 향한 젊은 열정!"
+        icon: far fa-fire
+      - title: "40 ~ 60대"
+        desc: "탁구는 나의 삶!"
+        icon: fas fa-medal
+      - title: "모든 탁구 모임"
+        desc: "전체 탁구 모임을 볼 수 있습니다"
+        icon: fas fa-folder-open
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "탁구 대회"
+    text: "대회에서 자신의 실력을 뽐내보세요!"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "대회 닫기"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "탁구에 대하여"
+    text: "잘치던 못치던 상관없어요"
+    body: "조그만 공을 가지고 사람들과 티키타카하는 것, 그 자체만으로 충분히 잘 하고 있는 겁니다."
     section: about
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
