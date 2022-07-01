@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: raviriley/agency-jekyll-theme #아무리 찾아봐도 답이 없던 build가 이 한 줄 하나로 고쳐졌다. jekyll-agency가 could not be found 라고 떠서 바꿔봤는데 됐다.
 
 url    : "https://bbackjju.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/tabletennis" # the subpath of your site, e.g. /blog
