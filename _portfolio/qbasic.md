@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 구장 리그전
   subtitle: 구장에서 열리는 리그전으로 재밌게 탁구치자!
-  thumbnail: https://staticg.sportskeeda.com/wp-content/uploads/2013/03/163874888-1442632.jpg
+  thumbnail: assets/img/portfolio/06-thumbnail.jph
   
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://staticg.sportskeeda.com/wp-content/uploads/2013/03/163874888-1442632.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/04-thumbnail.jph #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
